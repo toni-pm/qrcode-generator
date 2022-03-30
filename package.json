@@ -1,0 +1,21 @@
+{
+  "name": "qrcode-generator",
+  "version": "1.0.0",
+  "description": "QR code generator",
+  "main": "index.js",
+  "repository": "https://github.com/toni-pm/qrcode-generator.git",
+  "author": "tonipm <toniperairam@gmail.com>",
+  "license": "GPL-3.0",
+  "type": "module",
+  "keywords": [
+    "qr",
+    "code",
+    "generator"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "qrcode-svg": "^1.1.0"
+  }
+}
